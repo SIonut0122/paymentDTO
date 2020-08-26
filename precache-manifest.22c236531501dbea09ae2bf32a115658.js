@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9816899bcfb1e8a063dd5f61c3100f4",
+    "revision": "7b7bd5278b2681953ab236308e1803c3",
     "url": "/paymentDTO/index.html"
   },
   {
-    "revision": "9d84ec0de3fbce4408d1",
+    "revision": "5a2b70d014b57a5877f5",
     "url": "/paymentDTO/static/css/main.80216547.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/paymentDTO/static/js/2.d8650175.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d84ec0de3fbce4408d1",
-    "url": "/paymentDTO/static/js/main.4be400d2.chunk.js"
+    "revision": "5a2b70d014b57a5877f5",
+    "url": "/paymentDTO/static/js/main.0b324efd.chunk.js"
   },
   {
     "revision": "e7c863eb644b6913ff91",
